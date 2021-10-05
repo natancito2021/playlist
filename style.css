@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+
+.portada{
+    background-image: url(imagenes/demi.jpeg);
+    background-size: cover;
+    height: 400px;
+   position: relative;
+    
+ }
+ .titulo{
+     position: absolute;
+     right: 50px;
+     bottom: 20px;
+ }
+ body{
+     margin: 0;
+     background:linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+ }
+table{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+  margin: 0 auto;
+  text-align: center;
+   
+
+}
+.title{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.primera{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+    
+
+
+}
+.segunda{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.tercera{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.cuarta{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.quinta{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.sexta{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.septima{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.octava{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.novena{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+.decima{
+    background: rgb(121,9,42);
+    background: linear-gradient(90deg, rgba(121,9,42,1) 0%, rgba(245,74,74,0.6796918596540178) 50%, rgba(255,0,0,1) 100%);
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: 'Gemunu Libre', sans-serif;
+
+
+}
+footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 225, 225);
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 1.5em;
+}
